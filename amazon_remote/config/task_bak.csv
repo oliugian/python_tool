@@ -1,0 +1,4 @@
+是否使用代理,关键字(必填),搜索类型,asin_id(必填),最大搜索页数(默认20),加入愿望清单(yes/no),加入购物车(yes/no),5星评论点赞(yes/no),同时进行任务数(默认1),处理次数(默认10),启动时间,停止时间,是否完成(必填yes/no)
+lalalam,bb,cc,,dd,,asdf,,,,,,no
+lalalam,bb,cc,,,,,,,,,,no
+lalalam,bb,cc,,,,,,,,,,no
