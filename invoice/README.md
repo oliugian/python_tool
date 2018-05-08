@@ -1,0 +1,1 @@
+pyinstaller -F XLS_Manager.py
